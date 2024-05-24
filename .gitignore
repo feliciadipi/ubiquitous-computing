@@ -1,0 +1,12 @@
+# VS Code Files and Local History
+.vscode/
+.history/
+
+# Docker Files
+.devcontainer/
+
+# Configuration Files
+sdkconfig*
+
+# Build Files
+build/
