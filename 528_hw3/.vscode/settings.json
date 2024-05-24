@@ -1,5 +1,0 @@
-{
-  "idf.port": "/dev/cu.usbserial-1420",
-  "C_Cpp.errorSquiggles": "disabled",
-  "idf.flashType": "UART"
-}
